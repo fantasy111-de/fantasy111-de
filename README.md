@@ -4,7 +4,7 @@
 ```csharp
 using System;
 
-public class Fernanda
+public class Vivi
 {
     public string Name { get; set; } = "Viviane Cunico da Silva";
     public string Acknowledgements { get; set; } = "Dev Back-end";
