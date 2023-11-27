@@ -9,7 +9,7 @@ public class Vivi
     public string Name { get; set; } = "Viviane Cunico da Silva";
     public string Acknowledgements { get; set; } = "Dev Back-end";
     public string PrimarySkillset { get; set; } = "Windows, UML, Design, English (a2), Russian (a1)";
-    public string Languages { get; set; } = "Python, C#, Ruby, C";
+    public string Languages { get; set; } = "Python, C#, C";
 
 }
 
@@ -37,10 +37,8 @@ public class Vivi
 
 ## Studying in this moment:
 
-![Ruby](https://img.shields.io/badge/Ruby-04080f?style=for-the-badge&logo=ruby&logoColor=white)
 ![Django](https://img.shields.io/badge/django-04080f?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-04080f?style=for-the-badge&logo=flask&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-04080f?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-04080f?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-04080f?style=for-the-badge&logo=c&logoColor=white)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
