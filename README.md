@@ -26,6 +26,8 @@ public class Vivi
 )
 ![C#](https://img.shields.io/badge/csharp-04080f?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-04080f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-04080f?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-04080f?style=for-the-badge&logo=javascript&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-04080f?style=for-the-badge&logo=windows&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-04080f?style=for-the-badge&logo=powershell&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-04080f?style=for-the-badge&logo=notion&logoColor=white)
