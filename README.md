@@ -9,7 +9,7 @@ public class Vivi
     public string Name { get; set; } = "Viviane Cunico da Silva";
     public string Acknowledgements { get; set; } = "Dev Back-end";
     public string PrimarySkillset { get; set; } = "Windows, UML, Design, English (a2), Russian (a1)";
-    public string Languages { get; set; } = "Python, C#, C";
+    public string Languages { get; set; } = "Python";
 
 }
 
@@ -24,7 +24,6 @@ public class Vivi
 ## Technologies:
 ![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=white
 )
-![C#](https://img.shields.io/badge/csharp-04080f?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-04080f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-04080f?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-04080f?style=for-the-badge&logo=javascript&logoColor=white)
@@ -43,5 +42,5 @@ public class Vivi
 ![Django](https://img.shields.io/badge/django-04080f?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-04080f?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-04080f?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/c-04080f?style=for-the-badge&logo=c&logoColor=white)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
