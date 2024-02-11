@@ -8,7 +8,7 @@ public class Vivi
 {
     public string Name { get; set; } = "Viviane Cunico da Silva";
     public string Acknowledgements { get; set; } = "Dev Back-end";
-    public string PrimarySkillset { get; set; } = "Windows, UML, Design, English (a2), Russian (a1)";
+    public string PrimarySkillset { get; set; } = "Windows, UML, Design, English (a2), Russian (a1), Romenian (a1), Greek (a1)";
     public string Languages { get; set; } = "Python";
 
 }
