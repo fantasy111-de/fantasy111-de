@@ -43,5 +43,5 @@ public class Vivi
 ![Flask](https://img.shields.io/badge/flask-04080f?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-04080f?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-04080f?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C#-04080f?style=for-the-badge&logo=c#&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-04080f?style=for-the-badge&logo=csharp&logoColor=white)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
