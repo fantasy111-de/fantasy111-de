@@ -23,19 +23,19 @@ class Vivi:
   [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agittpunkt_/)
 </div>
 
-## 📚 Skills
+<h3 align="left"> About me :</h3>
 
-- ### Linguagens
+- 💭 Cats, music, games, art, coffee and books
 
-[![Python](https://skillicons.dev/icons?i=py)]
-[![C](https://skillicons.dev/icons?i=c)]
-[![Javascript](https://skillicons.dev/icons?i=js)](https://www.python.org/)
+- 💌 How to reach me **vicunico6866@gmail.com**
 
-- ### Ferramentas
-[![Django](https://skillicons.dev/icons?i=django)]
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+- 🌺 Languages **PT / RUS / EN / RO / KR/ GR**
+
+<h3 align="left">Languange and Tools :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python, c, js, git,github)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode)](https://skillicons.dev) <br>
+
 
 ## 📁 Github Status
 
@@ -56,7 +56,7 @@ class Vivi:
 
 <a href="https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=c6c122a41f4a4d9b">
     <img
-        src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
+        src=(https://spotify-github-profile.vercel.app/api/view?uid=22chmtzfjn6cxgiolcpnexmpq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
         alt="Atividade no Spotify"
         height="100em"/>
 </a>
