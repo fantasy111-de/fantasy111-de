@@ -7,36 +7,61 @@ class Vivi:
         self.name = "Viviane Cunico da Silva"
         self.acknowledgements = "Dev Back-end"
         self.primary_skillset = "Windows, UML, Design, English (a2), Russian (a1), Romenian (a1), Greek (a1)"
-        self.languages = "Python, C"
+        self.languages = "Python, C, Javascript"
 ```
 
-<div align="center"> 
-<a href="https://www.instagram.com/agittpunkt_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:vicunico6866@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="linkedin.com/in/viviane-cunico-da-silva-20954b26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
-## Technologies:
-![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=white
-)
-![HTML5](https://img.shields.io/badge/html5-04080f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-04080f?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-04080f?style=for-the-badge&logo=javascript&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-04080f?style=for-the-badge&logo=windows&logoColor=white)
-![Powershell](https://img.shields.io/badge/powershell-04080f?style=for-the-badge&logo=powershell&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-04080f?style=for-the-badge&logo=notion&logoColor=white)
-![Astah](https://img.shields.io/badge/astah_uml-04080f?style=for-the-badge&logo=astah-uml&logoColor=white)
-![Obsidian](https://img.shields.io/badge/obsidian-04080f?style=for-the-badge&logo=obsidian&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-04080f?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-04080f?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/illustrator-04080f?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy111-de&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons"
+      alt="Linguagens mais usadas nos meus repositórios"
+      height="200em"/>
+  </a>
+  <h3> 📫 Contato </h3>
 
+  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-448424?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vicunico6866@gmail.com)
+  [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agittpunkt_/)
+</div>
 
-## Studying in this moment:
+## 📚 Skills
 
-![Django](https://img.shields.io/badge/django-04080f?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-04080f?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/c-04080f?style=for-the-badge&logo=c&logoColor=white)
-![react](https://img.shields.io/badge/react-04080f?style=for-the-badge&logo=react&logoColor=white)
+- ### Linguagens
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
+[![Python](https://skillicons.dev/icons?i=py)]
+[![C](https://skillicons.dev/icons?i=c)]
+[![Javascript](https://skillicons.dev/icons?i=js)](https://www.python.org/)
+
+- ### Ferramentas
+[![Django](https://skillicons.dev/icons?i=django)]
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+
+## 📁 Github Status
+
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fantasy111-de&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      alt="Estatísticas do perfil"
+      height="160em"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      alt="Github streak"
+      height="160em"/></a>
+
+---
+
+### ✨ Obrigado pela sua atenção ✨
+
+  <a href="https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=f0e0c6c3bac343fe">
+    <img
+      src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
+      alt="Atividade no Spotify"
+      height="100em"/>
+  </a>
+
+  [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=f0e0c6c3bac343fe)
+  [![LastFM](https://custom-icon-badges.demolab.com/badge/-Lastfm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/Vivi567_)
+</div>
