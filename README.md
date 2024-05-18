@@ -1,18 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Hey+I'm+Vivi;I'm+18+years+old;I'm+from+Brazil;I'm+Graduating+in+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-```csharp
-using System;
-
-public class Vivi
-{
-    public string Name { get; set; } = "Viviane Cunico da Silva";
-    public string Acknowledgements { get; set; } = "Dev Back-end";
-    public string PrimarySkillset { get; set; } = "Windows, UML, Design, English (a2), Russian (a1), Romenian (a1), Greek (a1)";
-    public string Languages { get; set; } = "Python";
-
-}
-
+```python
+class Vivi:
+    def __init__(self):
+        self.name = "Viviane Cunico da Silva"
+        self.acknowledgements = "Dev Back-end"
+        self.primary_skillset = "Windows, UML, Design, English (a2), Russian (a1), Romenian (a1), Greek (a1)"
+        self.languages = "Python, C"
 ```
 
 <div align="center"> 
@@ -40,9 +35,8 @@ public class Vivi
 ## Studying in this moment:
 
 ![Django](https://img.shields.io/badge/django-04080f?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-04080f?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-04080f?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-04080f?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-04080f?style=for-the-badge&logo=csharp&logoColor=white)
+![react](https://img.shields.io/badge/react-04080f?style=for-the-badge&logo=react&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
