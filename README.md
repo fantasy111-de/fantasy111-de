@@ -53,14 +53,14 @@ class Vivi:
 
 ---
 
-### ✨ Obrigado pela sua atenção ✨
 
-  <a href="https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=c6c122a41f4a4d9b">
+<a href="https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=c6c122a41f4a4d9b">
     <img
-      src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
-      alt="Atividade no Spotify"
-      height="100em"/>
-  </a>
+        src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
+        alt="Atividade no Spotify"
+        height="100em"/>
+</a>
+
 
   [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=f0e0c6c3bac343fe)
   [![LastFM](https://custom-icon-badges.demolab.com/badge/-Lastfm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/Vivi567_)
