@@ -54,12 +54,7 @@ class Vivi:
 ---
 
 
-<a href="https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=c6c122a41f4a4d9b">
-    <img
-        src=(https://spotify-github-profile.vercel.app/api/view?uid=22chmtzfjn6cxgiolcpnexmpq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-        alt="Atividade no Spotify"
-        height="100em"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22chmtzfjn6cxgiolcpnexmpq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
   [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22chmtzfjn6cxgiolcpnexmpq?si=f0e0c6c3bac343fe)
