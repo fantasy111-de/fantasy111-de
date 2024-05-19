@@ -26,7 +26,7 @@ class Vivi:
 <h3 align="left">Language and Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,git,github,django,react)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode,pycharm,clion,astah)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode,pycharm,clion)](https://skillicons.dev) <br>
 
 
 ## 📁 Github Status
