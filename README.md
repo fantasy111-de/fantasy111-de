@@ -5,7 +5,7 @@
 class Vivi:
     def __init__(self):
         self.name = "Viviane Cunico da Silva"
-        self.acknowledgements = "Back-end, Mobile & Deep Learning"
+        self.acknowledgements = "Full-Stack, Mobile & Deep Learning"
         self.primary_skillset = "Windows, UML, Design, English (a2), Russian (a1), Romenian (a1), Greek (a1), Korean (A1)"
         self.languages = "Python, C, Javascript"
 ```
@@ -26,7 +26,7 @@ class Vivi:
 <h3 align="left">Language and Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,git,github,django,react)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode,pycharm,clion, astah)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode,pycharm,clion,astah)](https://skillicons.dev) <br>
 
 
 ## 📁 Github Status
