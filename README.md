@@ -10,13 +10,6 @@ class Vivi:
         self.languages = "Python, C, Javascript"
 ```
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy111-de&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons"
-      alt="Linguagens mais usadas nos meus repositórios"
-      height="200em"/>
-  </a>
   <h3> 📫 Contato </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-448424?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vicunico6866@gmail.com)
@@ -30,10 +23,10 @@ class Vivi:
 
 
 
-<h3 align="left">Languange and Tools :</h3>
+<h3 align="left">Language and Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,git,github,django,react)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode,pycharm,clion)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=astah,postgresql,photoshop,illustrator,figma,vscode,pycharm,clion, astah)](https://skillicons.dev) <br>
 
 
 ## 📁 Github Status
