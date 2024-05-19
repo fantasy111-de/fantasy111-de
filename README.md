@@ -14,8 +14,9 @@ class Vivi:
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-448424?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vicunico6866@gmail.com)
   [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agittpunkt_/)
+   [![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-E4405f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-cunico-da-silva-20954b26a/)
 </div>
-  [![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-E4405f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-cunico-da-silva-20954b26a/)
+ 
 
 
 - 💭 Cats, music, games, art, coffee and books
