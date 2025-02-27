@@ -26,6 +26,7 @@
 <h3 align="left">Studying :</h3>
 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) <br>
 
 
