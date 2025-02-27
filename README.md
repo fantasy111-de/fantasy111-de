@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postgresql,figma,vscode,obsidian)](https://skillicons.dev) <br>
 
 <h3 align="left">Studying :</h3>
-[![Skills](https://skillicons.dev/icons?i=java,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mongodb)](https://skillicons.dev)
 
 ## 📁 Github Status
 
