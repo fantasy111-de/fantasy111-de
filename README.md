@@ -27,6 +27,12 @@
 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![SpringBoot](https://skillicons.dev/icons?i=springboot)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) <br>
 
 
