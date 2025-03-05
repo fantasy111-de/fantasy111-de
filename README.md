@@ -31,8 +31,8 @@
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) <br>
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <br>
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
 
 
 
