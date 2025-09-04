@@ -18,3 +18,20 @@ Graduating in Analysis and Systems Development
 [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+## 📁 Github Status
+
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fantasy111-de&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      alt="Estatísticas do perfil"
+      height="160em"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      alt="Github streak"
+      height="160em"/></a>
+
+---
