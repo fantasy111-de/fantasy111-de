@@ -12,4 +12,4 @@ Graduating in Analysis and Systems Development
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![CSharp](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
+[![CS](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
