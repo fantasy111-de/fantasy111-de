@@ -15,3 +15,5 @@ Graduating in Analysis and Systems Development
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![CS](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![sqlserver](https://skillicons.dev/icons?i=sqlserver)](https://skillicons.dev)
