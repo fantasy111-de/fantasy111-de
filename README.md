@@ -35,3 +35,4 @@ Graduating in Analysis and Systems Development
       height="160em"/></a>
 
 ---
+![Profile views badge](https://komarev.com/ghpvc/?username=fantasy111-de&color=blue)
