@@ -16,4 +16,4 @@ Graduating in Analysis and Systems Development
 [![CS](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-[![sqlserver](https://skillicons.dev/icons?i=sqlserver)](https://skillicons.dev)
+[![SQLServer](https://skillicons.dev/icons?i=sql_server)](https://skillicons.dev)
