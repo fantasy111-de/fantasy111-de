@@ -2,7 +2,7 @@
 Graduating in Analysis and Systems Development
 
 # Langs
-[![My Skills](https://skillicons.dev/icons?i=js,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,ionic)](https://skillicons.dev)
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=postgresql,figma,vscode,obsidian)](https://skillicons.dev) <br>
 
@@ -13,3 +13,4 @@ Graduating in Analysis and Systems Development
 [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![CS](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
