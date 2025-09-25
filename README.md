@@ -20,6 +20,13 @@ Graduating in Analysis and Systems Development
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![ApacheKafka](https://skillicons.dev/icons?i=apachekafka)](https://skillicons.dev)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
+
+
+
 ## 📁 Github Status
 
 <div align='center'>
