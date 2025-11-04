@@ -3,28 +3,24 @@ Graduating in Analysis and Systems Development
 
 # Langs
 [![My Skills](https://skillicons.dev/icons?i=js,python,c)](https://skillicons.dev)
-# Tools
-[![My Skills](https://skillicons.dev/icons?i=postgresql,figma,vscode,obsidian,git,github)](https://skillicons.dev) <br>
 
-# Learning
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+# Front
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![CS](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-[![ApacheKafka](https://skillicons.dev/icons?i=apachekafka)](https://skillicons.dev)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
-[![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
 
+# Back
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+
+
+# Tools
+[![My Skills](https://skillicons.dev/icons?i=postgresql,figma,vscode,obsidian,git,github,sqlite,mysql)](https://skillicons.dev) <br>
+
+# Learning
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
 ## 📁 Github Status
